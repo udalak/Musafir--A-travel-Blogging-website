@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udalak/Musafir--A-travel-Blogging-website/static/css/main.ef78b4a7.css",
+    "main.js": "/udalak/Musafir--A-travel-Blogging-website/static/js/main.3e9d1941.js",
+    "index.html": "/udalak/Musafir--A-travel-Blogging-website/index.html",
+    "main.ef78b4a7.css.map": "/udalak/Musafir--A-travel-Blogging-website/static/css/main.ef78b4a7.css.map",
+    "main.3e9d1941.js.map": "/udalak/Musafir--A-travel-Blogging-website/static/js/main.3e9d1941.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef78b4a7.css",
+    "static/js/main.3e9d1941.js"
+  ]
+}
